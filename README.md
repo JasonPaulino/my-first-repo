@@ -1,1 +1,1 @@
-# my-first-repo
+# My name is Jason Paulino and as of creating this, I am 20 years old. I am looking forward to neing the best software engineer that I can be through the Marcy Lab experience.
